@@ -1,0 +1,36 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+.menu{
+	color: #b2b2b2;
+	left: 30px;
+	margin: 0px;
+
+}
+p{
+	margin-top: 40px;
+	margin-left: 30px;
+	flex-direction: left;
+
+}
+.techkaro{
+background-color: green;
+border: none;
+font-family: 'Anton', sans-serif;
+margin-left: 170px;
+}
+.main{
+	margin:none;
+	display: flex;
+	padding: 0px;
+	justify-content: space-evenly;
+}
+.card-header{
+	background-color: green;
+
+}
